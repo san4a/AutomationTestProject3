@@ -6,6 +6,11 @@ Background: back
 Given 0
 And 0
 
+@SC_505948628
+Scenario: 9
+Given 9
+And 999
+
 @SC_508543929
 Scenario: 1
 When 1
@@ -45,9 +50,4 @@ And 7
 Scenario: 8
 When 8
 And 8
-
-@SC_505948628
-Scenario: 9
-When 9
-And 9
 
