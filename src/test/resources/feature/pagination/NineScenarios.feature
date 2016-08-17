@@ -7,7 +7,7 @@ Given 0
 And 0
 
 @SC_505948628 @tag
-Scenario: 9
+Scenario: 99
 descr
 Given 9
 And 999
