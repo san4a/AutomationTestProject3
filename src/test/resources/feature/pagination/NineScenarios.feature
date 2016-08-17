@@ -6,7 +6,7 @@ Background: back
 Given 0
 And 0
 
-@SC_505948628
+@SC_505948628 @tag
 Scenario: 9
 Given 9
 And 999
