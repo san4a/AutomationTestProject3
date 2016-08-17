@@ -8,6 +8,7 @@ And 0
 
 @SC_505948628 @tag
 Scenario: 9
+descr
 Given 9
 And 999
 
