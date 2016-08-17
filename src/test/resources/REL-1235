@@ -1,4 +1,4 @@
-@ST_476080519 @ololotag @gfsdfgr
+@ololotag @gfsdfgr @ST_476080519
 Feature: Auto test featureuuuu
 ololo descrhhg
 
@@ -8,15 +8,15 @@ Given test
 And test2
 When test2222
 
-@SC_694081178
-Scenario: Smoke scenarioddddff
-sdfsdfsggg
-Given test
-And test2
-When test
-
 @SC_870075590
 Scenario: 3
+sdfsdfsggg
+Given test
+And testnew
+When test
+
+@SC_694081178
+Scenario: Smoke scenarioddddff
 sdfsdfsggg
 Given test
 And test2
