@@ -1,4 +1,4 @@
-@ST_504089037 @tag
+@tag @ST_504089037
 Feature: Book search1
 To allow a customer to find his favourite books quickly, the library must offer multiple ways to search for a book. Check.
 
@@ -7,9 +7,11 @@ Background:
 Given a $100 microwave was sold on 2015-11-03
 And today is 2015-11-18
 
-@SC_487594791
-Scenario: 
+@SC_487594791 @tag
+Scenario: Name
+description
 Given a $100 microwave was sold on 2015-11-03
+And today is 2015-11-18
 And today is 2015-11-18
 
 @SC_512365940
