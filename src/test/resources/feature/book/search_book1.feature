@@ -1,6 +1,6 @@
 @ST_504089037 @tag
 Feature: Book search1
-  To allow a customer to find his favourite books quickly, the library must offer multiple ways to search for a book.
+To allow a customer to find his favourite books quickly, the library must offer multiple ways to search for a book. Check.
 
 Background: 
 
