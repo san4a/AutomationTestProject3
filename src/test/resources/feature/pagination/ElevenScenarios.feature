@@ -1,4 +1,4 @@
-Feature: Eleven Scenarios1
+Feature: Eleven Scenarios
 
 Background: back
 Given 0
