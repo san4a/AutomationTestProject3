@@ -1,5 +1,5 @@
 @ST_640776897
-Feature: Book search1
+Feature: Book search
 To allow a customer to find his favourite books quickly, the library must offer multiple ways to search for a book. Check.
 
 Background: 
