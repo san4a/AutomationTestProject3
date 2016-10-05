@@ -26,7 +26,6 @@ Scenario: 4
 When 4
 And 4
 
-@SC_560711077
 Scenario: 5
 When 5
 And 5
