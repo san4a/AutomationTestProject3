@@ -1,4 +1,4 @@
-@ST_1052
+@ST_1059
 Feature: Nine Scenarios
 
 Background: back
@@ -6,48 +6,48 @@ Background: back
 Given 0
 And 0
 
-@SC_8623
+@SC_8679
 Scenario: 99
 descr
 Given 9
 And 999
 
-@SC_8624
+@SC_8680
 Scenario: 1
 When 1
 And 1
 
-@SC_8625
+@SC_8681
 Scenario: 2
 When 2
 And 2
 
-@SC_8626
+@SC_8682
 Scenario: 3
 When 3
 And 3
 
-@SC_8627
+@SC_8683
 Scenario: 4
 When 4
 And 4
 
-@SC_8628
+@SC_8684
 Scenario: 5
 When 5
 And 5
 
-@SC_8629
+@SC_8685
 Scenario: 6
 When 6
 And 6
 
-@SC_8630
+@SC_8686
 Scenario: 7
 When 7
 And 7
 
-@SC_8631
+@SC_8687
 Scenario: 8
 When 8
 And 8
