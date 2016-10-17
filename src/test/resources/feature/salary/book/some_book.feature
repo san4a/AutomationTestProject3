@@ -1,7 +1,7 @@
-@ST_760
+@ST_767
 Feature: some
 
-@SC_6080
+@SC_6136
 Scenario: any
 Given a
 And b
