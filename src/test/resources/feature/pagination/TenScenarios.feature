@@ -1,4 +1,4 @@
-@ST_2075
+@ST_2083
 Feature: Ten Scenarios
 asdasdad
 
@@ -7,52 +7,52 @@ Background: back
 Given 0
 And 0
 
-@SC_10766
+@SC_10822
 Scenario: 1
 When 1
 And 1
 
-@SC_10767
+@SC_10823
 Scenario: 2
 When 2
 And 2
 
-@SC_10768
+@SC_10824
 Scenario: 3
 When 3
 And 3
 
-@SC_10769
+@SC_10825
 Scenario: 4
 When 4
 And 4
 
-@SC_10770
+@SC_10826
 Scenario: 5
 When 5
 And 5
 
-@SC_10771
+@SC_10827
 Scenario: 6
 When 6
 And 6
 
-@SC_10772
+@SC_10828
 Scenario: 7
 When 7
 And 7
 
-@SC_10773
+@SC_10829
 Scenario: 8
 When 8
 And 8
 
-@SC_10774
+@SC_10830
 Scenario: 9
 When 9
 And 9
 
-@SC_10775
+@SC_10831
 Scenario: 10
 When 10
 And 10
