@@ -1,4 +1,4 @@
-@ST_2080
+@ST_2088
 Feature: Book search
 To allow a customer to find his favourite books quickly, the library must offer multiple ways to search for a book. Check.
 
@@ -7,29 +7,29 @@ Background:
 Given a $100 microwave was sold on 2015-11-03
 And today is 2015-11-18
 
-@SC_10790
+@SC_10846
 Scenario: Name
 description
 Given a $100 microwave was sold on 2015-11-03
 And today is 2015-11-18
 And today is 2015-11-18
 
-@SC_10791
+@SC_10847
 Scenario: 
 Given a $100 microwave was sold on 2015-11-03
 And today is 2015-11-18
 
-@SC_10792
+@SC_10848
 Scenario: 
 Given a $100 microwave was sold on 2015-11-03
 And today is 2015-11-18
 
-@SC_10793
+@SC_10849
 Scenario: 
 Given a $100 microwave was sold on 2015-11-03
 And today is 2015-11-18
 
-@SC_10794
+@SC_10850
 Scenario: Search books by publication year
 Given a book with the title 'One good book', written by 'Anonymous', published in 14 March 2013
 And another book with the title 'Some other book', written by 'Tim Tomson', published in 23 August 2014
@@ -40,23 +40,23 @@ And Book 1 should have the title 'Some other book'
 And Book 2 should have the title 'One good book'
 Then i want do smth with "smth"
 
-@SC_10795
+@SC_10851
 Scenario: 
 Given a $100 microwave was sold on 2015-11-03
 And today is 2015-11-18
 
-@SC_10796
+@SC_10852
 Scenario: 
 Given a $100 microwave was sold on 2015-11-03
 And today is 2015-11-18
 And today is 2015-11-18
 
-@SC_10797
+@SC_10853
 Scenario: 
 Given a $100 microwave was sold on 2015-11-03
 And today is 2015-11-18
 
-@SC_10798
+@SC_10854
 Scenario: 
 Given a $100 microwave was sold on 2015-11-03
 And today is 2015-11-18
