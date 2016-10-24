@@ -1,4 +1,4 @@
-@ST_8425
+@ST_1949
 Feature: Eleven Scenarios
 
 Background: back
@@ -6,57 +6,57 @@ Background: back
 Given 0
 And 0
 
-@SC_35514
+@SC_15185
 Scenario: 1
 When 1
 And 1
 
-@SC_35515
+@SC_15186
 Scenario: 2
 When 2
 And 2
 
-@SC_35516
+@SC_15187
 Scenario: 3
 When 3
 And 3
 
-@SC_35517
+@SC_15188
 Scenario: 4
 When 4
 And 4
 
-@SC_35518
+@SC_15189
 Scenario: 5
 When 5
 And 5
 
-@SC_35519
+@SC_15190
 Scenario: 6
 When 6
 And 6
 
-@SC_35520
+@SC_15191
 Scenario: 7
 When 7
 And 7
 
-@SC_35521
+@SC_15192
 Scenario: 8
 When 8
 And 8
 
-@SC_35522
+@SC_15193
 Scenario: 9
 When 9
 And 9
 
-@SC_35523
+@SC_15194
 Scenario: 10
 When 10
 And 10
 
-@SC_35524
+@SC_15195
 Scenario: 11
 When 11
 And 11
